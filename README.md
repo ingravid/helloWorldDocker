@@ -1,4 +1,4 @@
-# Just Hello World!
+# Simplest Hello World! Spring-boot app
 
 mvn spring-boot:run
 
